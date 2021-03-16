@@ -1,3 +1,4 @@
 # MomentumBackpropagation
-Yapay sinir ağının momentum backpropagation algoritması ile gerçekleştirimi
-#Projeye eklenmesi gereken jar dosyaları 
+
+Creating an artificial neural network with momentum backpropagation algorithm.
+
